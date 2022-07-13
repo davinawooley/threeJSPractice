@@ -1,4 +1,4 @@
-Practice from online course
+Practice from online course - 
 # Three.js Journey
 
 ## Setup
